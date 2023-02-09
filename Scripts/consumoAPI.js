@@ -19,7 +19,7 @@ const colores = {
     ground: '#D2B074',
     dragon: '#DA627D',
     steel: '#1D8A99',
-    fighting: '#2F2F2F',
+    fighting: '#C2C2C2',
     default: '#2A1A1F',
     fairy: '#CEFFFF',
     dark: '#767676'
